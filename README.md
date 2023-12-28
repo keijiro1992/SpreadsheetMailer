@@ -1,0 +1,2 @@
+# SpreadsheetMailer
+Spreadsheetでメール送信するスクリプト
